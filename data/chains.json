@@ -5302,23 +5302,6 @@
       }
     ]
   },
-  "8408": {
-    "name": "Zenchain Testnet",
-    "description": "Fully decentralized and EVM-compatible Bitcoin L1 solution, leveraging Bitcoin's network for secure cross-chain interactions.",
-    "logo": "https://cdn.prod.website-files.com/644a5b7efad46e3cd70deafb/672e2004ecbf024c711f68a8_ZenChain.png",
-    "ecosystem": "Ethereum",
-    "isTestnet": true,
-    "layer": 1,
-    "rollupType": "optimistic",
-    "native_currency": "ZTC",
-    "website": "https://www.zenchain.io/",
-    "explorers": [
-      {
-        "url": "https://zentrace.io",
-        "hostedBy": "blockscout"
-      }
-    ]
-  },
   "8449": {
     "name": "Deriw Testnet",
     "description": "Next-generation public blockchain, engineered for seamless integration and high performance.",
