@@ -720,23 +720,6 @@
       }
     ]
   },
-  "148": {
-    "name": "Shimmer EVM Mainnet",
-    "description": "A high-performance, feeless, and parallelized Directed Acyclic Graph (DAG) ledger.",
-    "logo": "https://blockscout-icons.s3.us-east-1.amazonaws.com/shimmer.svg",
-    "ecosystem": "IOTA",
-    "isTestnet": false,
-    "layer": 1,
-    "rollupType": null,
-    "native_currency": "SMR",
-    "website": "https://shimmer.network/",
-    "explorers": [
-      {
-        "url": "https://explorer.evm.shimmer.network/",
-        "hostedBy": "blockscout"
-      }
-    ]
-  },
   "151": {
     "name": "Enzoscan chain",
     "description": "ENZO NETWORK is an Decentralized Smart Contract based business network. No one can change or edit any data or transactions.",
@@ -2184,23 +2167,6 @@
       {
         "url": "https://mbs.ogpuscan.io/",
         "hostedBy": "self"
-      }
-    ]
-  },
-  "1073": {
-    "name": "Shimmer EVM Testnet",
-    "description": "A high-performance, feeless, and parallelized Directed Acyclic Graph (DAG) ledger.",
-    "logo": "https://blockscout-icons.s3.us-east-1.amazonaws.com/shimmer.svg",
-    "ecosystem": "IOTA",
-    "isTestnet": true,
-    "layer": 1,
-    "rollupType": null,
-    "native_currency": "SMR",
-    "website": "https://shimmer.network/",
-    "explorers": [
-      {
-        "url": "https://explorer.evm.testnet.shimmer.network/",
-        "hostedBy": "blockscout"
       }
     ]
   },
